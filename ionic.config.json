@@ -1,0 +1,7 @@
+{
+  "name": "Lab2Student",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
